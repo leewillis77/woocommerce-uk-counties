@@ -32,7 +32,7 @@ Author URI: http://plugins.leewillis.co.uk/
  */
 
 
-function wc_uk_counties_add_counties ( $states ) {
+function WooCommerce_Counties ( $states ) {
 
     $states['GB'] = array (
                             'AV' => 'Avon',
@@ -83,9 +83,61 @@ function wc_uk_counties_add_counties ( $states ) {
                             'WY' => 'West Yorkshire',
                             'WI' => 'Wiltshire',
                             'WO' => 'Worcestershire',
+                            'ABD'=> 'Aberdeenshire',
+                            'ANS'=> 'Angus',
+                            'ARL'=> 'Argyle & Bute',
+                            'AYR'=> 'Ayrshire',
+                            'CLK'=> 'Clackmannanshire',
+                            'DGY'=> 'Dumfries & Galloway',
+                            'DNB'=> 'Dunbartonshire',
+    						'DDE'=> 'Dundee',
+							'ELN'=> 'East Lothian',
+							'EDB'=> 'Edinburgh',
+							'FIF'=> 'Fife',
+							'GGW'=> 'Glasgow',
+							'HLD'=> 'Highland',
+							'LKS'=> 'Lanarkshire',
+							'MLN'=> 'Midlothian',
+							'MOR'=> 'Moray',
+							'OKI'=> 'Orkney',
+							'PER'=> 'Perth and Kinross',
+							'RFW'=> 'Renfrewshire',
+							'SB' => 'Scottish Borders',
+							'SHI' => 'Shetland Isles',
+							'STI' => 'Stirling',
+							'WLN' => 'West Lothian',
+							'WI' => 'Western Isles',
+							'AGY' => 'Anglesey',
+							'GNT' => 'Blaenau Gwent',
+							'CP' => 'Caerphilly',
+							'CF' => 'Cardiff',
+							'CAE' => 'Carmarthenshire',
+							'CR' => 'Ceredigion',
+							'CW' => 'Conwy',
+							'DEN' => 'Denbighshire',
+							'FLN' => 'Flintshire',
+							'GLA' => 'Glamorgan',
+							'GWN' => 'Gwynedd',
+							'HAM' => 'Hampshire',
+							'MT' => 'Merthyr Tydfil',
+							'MON' => 'Monmouthshire',
+							'PT' => 'Neath Port Talbot',
+							'NP' => 'Newport',
+							'PEM' => 'Pembrokeshire',
+							'POW' => 'Powys',
+							'RT' => 'Rhondda Cynon Taff',
+							'SS' => 'Swansea',
+							'TF' => 'Torfaen',
+							'WX' => 'Wrexham',				
+							'ANT' => 'County Antrim',
+                            'ARM'=> 'County Armagh',
+                            'DOW' => 'County Down',
+                            'FER' => 'County Fermanagh',
+                            'LDY' => 'County Londonderry',
+                            'TYR' => 'County Tyron', 
                            );
-
     return $states;
+
 
 }
 
