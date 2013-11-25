@@ -12,3 +12,5 @@ A short plugin that adds UK postal counties to WooCommerce's list of states. The
 
  - 1.0
    - Initial release
+ - 1.1
+   - Change code for Scottish Western Isles to avoid conflict with Wiltshire
