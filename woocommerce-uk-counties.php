@@ -106,7 +106,7 @@ function  wc_uk_counties_add_counties( $states ) {
                             'SHI' => 'Scotland / Shetland Isles',
                             'STI' => 'Scotland / Stirling',
                             'WLN' => 'Scotland / West Lothian',
-                            'WI' => 'Scotland / Western Isles',
+                            'WIS' => 'Scotland / Western Isles',
                             'AGY' => 'Wales / Anglesey',
                             'GNT' => 'Wales / Blaenau Gwent',
                             'CP' => 'Wales / Caerphilly',
