@@ -129,12 +129,12 @@ function  wc_uk_counties_add_counties( $states ) {
                             'SS' => 'Wales / Swansea',
                             'TF' => 'Wales / Torfaen',
                             'WX' => 'Wales / Wrexham',
-                            'ANT' => 'Northen Ireland / County Antrim',
-                            'ARM' => 'Northen Ireland / County Armagh',
-                            'DOW' => 'Northen Ireland / County Down',
-                            'FER' => 'Northen Ireland / County Fermanagh',
-                            'LDY' => 'Northen Ireland / County Londonderry',
-                            'TYR' => 'Northen Ireland / County Tyron',
+                            'ANT' => 'Northern Ireland / County Antrim',
+                            'ARM' => 'Northern Ireland / County Armagh',
+                            'DOW' => 'Northern Ireland / County Down',
+                            'FER' => 'Northern Ireland / County Fermanagh',
+                            'LDY' => 'Northern Ireland / County Londonderry',
+                            'TYR' => 'Northern Ireland / County Tyron',
                            );
     return $states;
 
