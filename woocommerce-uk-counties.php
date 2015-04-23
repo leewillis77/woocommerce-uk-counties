@@ -134,7 +134,7 @@ function  wc_uk_counties_add_counties( $states ) {
                             'DOW' => 'Northern Ireland / County Down',
                             'FER' => 'Northern Ireland / County Fermanagh',
                             'LDY' => 'Northern Ireland / County Londonderry',
-                            'TYR' => 'Northern Ireland / County Tyron',
+                            'TYR' => 'Northern Ireland / County Tyrone',
                            );
     return $states;
 
