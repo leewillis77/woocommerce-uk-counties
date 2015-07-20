@@ -8,9 +8,11 @@ A short plugin that adds UK postal counties to WooCommerce's list of states. The
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. That's it! The counties will show up in WooCommerce
 
-# Changelog 
+# Changelog
 
- - 1.0
-   - Initial release
+ - 1.2
+   - Fix spelling mistake for County Tyrone
  - 1.1
    - Change code for Scottish Western Isles to avoid conflict with Wiltshire
+ - 1.0
+   - Initial release

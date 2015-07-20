@@ -4,7 +4,7 @@
 Plugin Name: WooCommerce UK Counties
 Plugin URI: http://plugins.leewillis.co.uk/donate/
 Description: A short plugin that adds UK postal counties to WooCommerce's list of states.
-Version: 1.1
+Version: 1.2
 Author: Lee Willis
 Author URI: http://plugins.leewillis.co.uk/
 */
