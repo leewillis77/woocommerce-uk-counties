@@ -118,7 +118,6 @@ function  wc_uk_counties_add_counties( $states ) {
                             'FLN' => 'Wales / Flintshire',
                             'GLA' => 'Wales / Glamorgan',
                             'GWN' => 'Wales / Gwynedd',
-                            'HAM' => 'Wales / Hampshire',
                             'MT' => 'Wales / Merthyr Tydfil',
                             'MON' => 'Wales / Monmouthshire',
                             'PT' => 'Wales / Neath Port Talbot',
