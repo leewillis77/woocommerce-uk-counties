@@ -19,7 +19,7 @@ A short plugin that adds UK postal counties to WooCommerce's list of states. The
 
 ### Support this free plugin
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://ecologi.com/ademtisoftware?gift-trees&amp;r=ademtisoftware"><img src="https://raw.github.com/leewillis77/woocommerce-uk-counties/master/img/cpw-banner.jpg" width="100%" alt="We're a climate-positive workforce"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://ecologi.com/ademtisoftware?gift-trees&amp;r=ademtisoftware"><img src="https://raw.githubusercontent.com/leewillis77/woocommerce-uk-counties/06668f33a33187478ae636a49e2254079c21cbb5/img/cpw-banner.jpg" width="100%" alt="We're a climate-positive workforce"></a>
 
 Using this plugin on your live site? Please buy the world some trees:
 
